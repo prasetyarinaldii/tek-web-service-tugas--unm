@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Prasetya Rinaldi",
+        "umur": 29,
+        "nim": "11211763",
+        "lulus": true,
+        "hoby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Ibu Fatmawati",
+            "pembimbing2": "Ibu Fatmawati2"
+        }
+    },
+    {
+        "nama": "Prasetya Rinaldi",
+        "umur": 29,
+        "nim": "11211763",
+        "lulus": true,
+        "hoby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Ibu Fatmawati",
+            "pembimbing2": "Ibu Fatmawati2"
+        }
+    }
+]
